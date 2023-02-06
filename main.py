@@ -28,3 +28,7 @@ def binary_search(list,item):
 m_list = sorted(sample(range(1, 129), 128))
 
 print(binary_search(m_list,127))
+
+
+
+
